@@ -11,3 +11,9 @@ Columns: Subscription status, gender, category, shipping type, purchase amount, 
 Format: CSV
 # Dashboard
 <img width="1443" height="805" alt="image" src="https://github.com/user-attachments/assets/73111746-d26f-440b-886f-991b055f2825" />
+# Tools & Technologies
+Python: Data loading, cleaning, and exploratory data analysis (Pandas, NumPy, Matplotlib, Seaborn)
+
+SQL (MySQL / PostgreSQL): Querying and extracting customer and sales insights
+
+Power BI: Building the interactive dashboard
